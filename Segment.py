@@ -7,7 +7,6 @@ import argparse
 
 from ocr.helpers import implt, resize, ratio
 from ocr import page
-
 #matplotlib inline
 plt.rcParams['figure.figsize'] = (15.0, 10.0)
 
